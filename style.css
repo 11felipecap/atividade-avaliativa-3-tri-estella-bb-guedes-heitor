@@ -16,6 +16,10 @@ body {
 
 }
 
+body{ 
+
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dentrodahistoria.com.br%2Fblog%2Fentretenimento-e-diversao%2Fconheca-personagens-de-carros%2F&psig=AOvVaw1JeOSawgWhKlZqagta9Ev9&ust=1730905618807000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi4vYW8xYkDFQAAAAAdAAAAABAE");
+}
 h1 span{
 
     color: var(--verde);
